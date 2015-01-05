@@ -119,8 +119,9 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:000751_0000_0FAA51ABECC36190"/>
-            <pb facs="tcp:000751_0001_0FAA51ACBB30CD30" rendition="simple:additions"/>
+            <pb facs="unknown:000751_0000_0FAA51ABECC36190"/>
+            <pb facs="unknown:000751_0001_0FAA51ACBB30CD30"
+                rendition="simple:additions"/>
             <head>Province of the Massachu<g ref="char:EOLhyphen"/>setts-Bay. By the HONORABLE, the Lieutenant Governour, &amp;c. Council &amp; Assembly: Convened at <hi>Boston,</hi> upon <hi>Wednesday</hi> the 27<hi>th.</hi> of <hi>May.</hi> 1696. In the Eighth Year of His Majesties Reign.</head>
             <head type="sub">For better Encouragement to Prosecute the <hi>French</hi> and <hi>Indian</hi> Enemy, <hi>&amp;c.</hi>
             </head>
